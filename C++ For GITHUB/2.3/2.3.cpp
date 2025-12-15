@@ -5,11 +5,11 @@ int main() {
     int N;
     cin >> N;
     
-    int S = 0;
+    long long S = 0;
     int i = 1;
     
     while (i <= N) {
-        int term = 1;
+        long long term = 1;
         int j = 0;
         
         while (j <= i) {
@@ -23,6 +23,4 @@ int main() {
     
     cout << "Сумма S = " << S << endl;
     return 0;
-
 }
-
