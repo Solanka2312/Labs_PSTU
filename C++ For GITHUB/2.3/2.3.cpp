@@ -9,7 +9,7 @@ int main() {
     int i = 1;
     
     while (i <= N) {
-        long long term = 1;
+        int term = 1;
         int j = 0;
         
         while (j <= i) {
@@ -25,3 +25,4 @@ int main() {
     return 0;
 
 }
+
