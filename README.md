@@ -40,7 +40,7 @@
 | eq_Iter | 🟢 (15.12.2025) | 🟢 (22.12.2025) |
 | eq_Newton | 🟢 (15.12.2025) | 🟢 (22.12.2025) |
 ## 2 семестр
-| Дата | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
+| Дата | Наименование | Статус | Ссылка на исходный код | Ссылка на схему | |
 | --- | --- | --- | --- | --- | --- |
 | 11.02.2026 | 3.1 | 🟢 | [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.1/3.1.cpp)] | 🟢  [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.1/3.1.png)] |
 | 11.02.2026 | 3.2 | 🟢 | [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.2/3.2.cpp)] | 🟢  [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.2/3.2.png)] |
