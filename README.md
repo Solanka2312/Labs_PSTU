@@ -52,9 +52,17 @@
 | 11.02.2026 | 3.8 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.8/3.8.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.8/3.8.png) |
 | 11.02.2026 | 3.9 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.9/3.9.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.9/3.9.png) |
 | 11.02.2026 | 3.10 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.10/3.10.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.10/3.10.png) |
-| 11.02.2026 | 3.11 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.11/3.11.cpp) | 🟡  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.11/3.11.png)|
-| 11.02.2026 | 3.12 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.12/3.12.cpp) | 🟡  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.12/3.12.png)|
-| 11.02.2026 | 3.13 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.13/3.13.cpp) | 🟡  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.13/3.13.png)|
-| 11.02.2026 | 8-FERZ | 🟢 | [code]([https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.13/3.13.cpp](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/8%20FERZ/8Ferz.cpp)) | 🟡  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/8%20FERZ/8Ferz.png))|
+| 11.02.2026 | 3.11 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.11/3.11.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.11/3.11.png)|
+| 11.02.2026 | 3.12 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.12/3.12.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.12/3.12.png)|
+| 11.02.2026 | 3.13 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.13/3.13.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.13/3.13.png)|
+| 11.02.2026 | 8-FERZ | 🟢 | [code]([https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.13/3.13.cpp](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/8%20FERZ/8Ferz.cpp)) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/8%20FERZ/8Ferz.png)|
+| 11.02.2026 | Bubble Sort | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Bubble%20Sort/Bubble%20Sort.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Bubble%20Sort/Bubble%20Sort.png) |
+| 11.02.2026 | Fib | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Fib/fib.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Fib/fib.png) |
+| 11.02.2026 | Hanoya | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Hanoiskaya/Hanoy.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Hanoiskaya/Hanoy.png) |
+| 11.02.2026 | Insertion Sort | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Insertion%20Sort/Insertion%20Sort.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Insertion%20Sort/Insertion%20Sort.png) |
+| 11.02.2026 | NOD | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/NOD/NOD.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/NOD/NOD.png) |
+| 11.02.2026 | Selection Sort | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Selection%20Sort/Selection%20Sort.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Selection%20Sort/Selection%20Sort.png) |
+| 11.02.2026 | | 🟢 | [code]() | 🟢  [png]() |
+| 11.02.2026 | | 🟢 | [code]() | 🟢  [png]() |
 | 11.02.2026 | Лабораторная работа №1 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Лабораторная%20работа%20№1/Lab4.cpp) | 🟡 |
 | 11.02.2026 | Лабораторная работа №2 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Лабораторная%20работа%20№2/Lab5.cpp) | 🟡 |
