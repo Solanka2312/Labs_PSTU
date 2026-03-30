@@ -55,5 +55,6 @@
 | 11.02.2026 | 3.11 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.11/3.11.cpp) | 🟡  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.11/3.11.png)|
 | 11.02.2026 | 3.12 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.12/3.12.cpp) | 🟡  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.12/3.12.png)|
 | 11.02.2026 | 3.13 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.13/3.13.cpp) | 🟡  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.13/3.13.png)|
+| 11.02.2026 | 8-FERZ | 🟢 | [code]([https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.13/3.13.cpp](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/8%20FERZ/8Ferz.cpp)) | 🟡  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/8%20FERZ/8Ferz.png))|
 | 11.02.2026 | Лабораторная работа №1 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Лабораторная%20работа%20№1/Lab4.cpp) | 🟡 |
 | 11.02.2026 | Лабораторная работа №2 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Лабораторная%20работа%20№2/Lab5.cpp) | 🟡 |
