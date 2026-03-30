@@ -42,18 +42,18 @@
 ## 2 семестр
 | Дата | Наименование | Статус | Ссылка на исходный код | Ссылка на схему | |
 | --- | --- | --- | --- | --- | --- |
-| 11.02.2026 | 3.1 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.1/3.1.cpp) | 🟢  [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.1/3.1.png)] |
-| 11.02.2026 | 3.2 | 🟢 | [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.2/3.2.cpp)] | 🟢  [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.2/3.2.png)] |
-| 11.02.2026 | 3.3 | 🟢 | [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.3/3.3.cpp)] | 🟢  [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.3/3.3.png)] |
-| 11.02.2026 | 3.4 | 🟢 | [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.4/3.4.cpp)] | 🟢  [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.4/3.4.png)] |
-| 11.02.2026 | 3.5 | 🟢 | [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.5/3.5.cpp)] | 🟢  [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.5/3.5.png)] |
-| 11.02.2026 | 3.6 | 🟢 | [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.6/3.6.cpp)] | 🟢  [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.6/3.6.png)] |
-| 11.02.2026 | 3.7 | 🟢 | [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.7/3.7.cpp)] | 🟢  [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.7/3.7.png)] |
-| 11.02.2026 | 3.8 | 🟢 | [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.8/3.8.cpp)] | 🟢  [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.8/3.8.png)] |
-| 11.02.2026 | 3.9 | 🟢 | [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.9/3.9.cpp)] | 🟢  [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.9/3.9.png)] |
-| 11.02.2026 | 3.10 | 🟢 | [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.10/3.10.cpp)] | 🟢  [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.10/3.10.png)] |
-| 11.02.2026 | 3.11 | 🟢 | [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.11/3.11.cpp)] | 🟡 |
-| 11.02.2026 | 3.12 | 🟢 | [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.12/3.12.cpp)] | 🟡 |
-| 11.02.2026 | 3.13 | 🟢 | [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.13/3.13.cpp)] | 🟡 |
-| 11.02.2026 | Лабораторная работа №1 | 🟢 | [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Лабораторная%20работа%20№1/Lab4.cpp)] | 🟡 |
-| 11.02.2026 | Лабораторная работа №2 | 🟢 | [(https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Лабораторная%20работа%20№2/Lab5.cpp)] | 🟡 |
+| 11.02.2026 | 3.1 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.1/3.1.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.1/3.1.png) |
+| 11.02.2026 | 3.2 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.2/3.2.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.2/3.2.png) |
+| 11.02.2026 | 3.3 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.3/3.3.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.3/3.3.png) |
+| 11.02.2026 | 3.4 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.4/3.4.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.4/3.4.png) |
+| 11.02.2026 | 3.5 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.5/3.5.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.5/3.5.png) |
+| 11.02.2026 | 3.6 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.6/3.6.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.6/3.6.png) |
+| 11.02.2026 | 3.7 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.7/3.7.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.7/3.7.png) |
+| 11.02.2026 | 3.8 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.8/3.8.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.8/3.8.png) |
+| 11.02.2026 | 3.9 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.9/3.9.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.9/3.9.png) |
+| 11.02.2026 | 3.10 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.10/3.10.cpp) | 🟢  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.10/3.10.png) |
+| 11.02.2026 | 3.11 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.11/3.11.cpp) | 🟡  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.11/3.11.png)|
+| 11.02.2026 | 3.12 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.12/3.12.cpp) | 🟡  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.12/3.12.png)|
+| 11.02.2026 | 3.13 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.13/3.13.cpp) | 🟡  [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/3.13/3.13.png)|
+| 11.02.2026 | Лабораторная работа №1 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Лабораторная%20работа%20№1/Lab4.cpp) | 🟡 |
+| 11.02.2026 | Лабораторная работа №2 | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Лабораторная%20работа%20№2/Lab5.cpp) | 🟡 |
