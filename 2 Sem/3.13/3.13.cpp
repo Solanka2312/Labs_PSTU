@@ -1,43 +1,46 @@
+// Задача 3.13 - Отсортировать матрицу по заданной строке
 #include <iostream>
 using namespace std;
 
 int main() {
-    const int R = 3, C = 3;
-    int a[R][C] = {
+    const int n = 3;
+    int arr[n][n] = {
         {3, 7, 0},
         {9, 4, 6},
         {5, 1, 2}
     };
-    int row = 2;  // строка для сортировки
+    int k = 1; // сортируем по первой строке (индекс 1)
+    int tmp;
     
-    cout << "До сортировки:" << endl;
-    for(int i = 0; i < R; i++) {
-        for(int j = 0; j < C; j++) {
-            cout << a[i][j] << "\t";
+    cout << "Исходная матрица:" << endl;
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            cout << arr[i][j] << " ";
         }
         cout << endl;
     }
+    cout << endl;
     
-    // Сортировка пузырьком столбцов
-    for(int k = 0; k < C-1; k++) {
-        for(int j = 0; j < C-1-k; j++) {
-            if(a[row][j] > a[row][j+1]) {
-                // Меняем столбцы местами
-                for(int i = 0; i < R; i++) {
-                    int temp = a[i][j];
-                    a[i][j] = a[i][j+1];
-                    a[i][j+1] = temp;
+    cout << "Сортируем по строке " << k << endl;
+    
+    // Сортируем пузырьком по строке k, переставляя столбцы
+    for (int i = 0; i < n-1; i++) {
+        for (int j = 0; j < n-1-i; j++) {
+            if (arr[k][j] > arr[k][j+1]) {
+                // Меняем местами столбцы j и j+1
+                for (int r = 0; r < n; r++) {
+                    tmp = arr[r][j];
+                    arr[r][j] = arr[r][j+1];
+                    arr[r][j+1] = tmp;
                 }
             }
         }
     }
     
-    cout << endl;
-
-    cout << "После сортировки по строке " << row << ":" << endl;
-    for(int i = 0; i < R; i++) {
-        for(int j = 0; j < C; j++) {
-            cout << a[i][j] << "\t";
+    cout << "Матрица после сортировки:" << endl;
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            cout << arr[i][j] << " ";
         }
         cout << endl;
     }
