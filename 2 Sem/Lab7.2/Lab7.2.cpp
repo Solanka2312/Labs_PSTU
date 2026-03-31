@@ -10,7 +10,7 @@ double triangleArea(double a, double b, double c) {
 
 double square(int n, ...) {
     if (n < 3) {
-        cerr << "Ошибка: n должно быть >= 3!" << endl;
+        cout << "Ошибка: n должно быть >= 3!" << endl;
         return 0.0;
     }
     
