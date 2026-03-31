@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include <cstdarg>
+#include <stdarg.h>
 using namespace std;
 
 double triangleArea(double a, double b, double c) {
