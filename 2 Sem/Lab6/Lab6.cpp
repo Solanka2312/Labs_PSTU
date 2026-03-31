@@ -1,35 +1,80 @@
 #include <iostream>
-#include <string>
-#include <algorithm>
+#include <cstring>
 #include <cctype>
+
 using namespace std;
 
-int main() { 
-    string str;
-    cout << "Введите строку (в конце точка): ";
-    getline(cin, str);
+const int MAX_LEN = 256;
+
+bool areAllLettersUnique(const char* word, int len) {
+    if (len <= 1) {
+        return true;
+    }
     
-    cout << "\nИсходная строка: " << str << endl;
-    
-    string withoutDigits;
-    for (char c : str) {
-        if (!isdigit(c)) {
-            withoutDigits += c;
+    for (int i = 0; i < len - 1; i++) {
+        for (int j = i + 1; j < len; j++) {
+            if (word[i] == word[j]) {
+                return false;
+            }
         }
     }
-    cout << "Строка после удаления цифр: " << withoutDigits << endl;
+    return true;
+}
+
+int main() {
+    char str[MAX_LEN];
     
-    string letters;
-    for (char c : withoutDigits) {
-        if (isalpha(c)) {
-            letters += c;
+    cout << "Введите строку (до " << MAX_LEN - 1 << " символов, в конце точка):" << endl;
+    cin.getline(str, MAX_LEN);
+    
+    int len = strlen(str);
+    if (len > 0 && str[len - 1] != '.') {
+        cout << "Предупреждение: строка не заканчивается точкой!" << endl;
+    }
+    
+    const int MAX_WORDS = 100;
+    char words[MAX_WORDS][MAX_LEN];
+    int wordCount = 0;
+    
+    char currentWord[MAX_LEN];
+    int currentWordLen = 0;
+    
+    for (int i = 0; i <= len; i++) {
+        char ch = str[i];
+        
+        if (ch == ' ' || ch == '\t' || ch == '.' || ch == '\0') {
+            if (currentWordLen > 0) {
+                currentWord[currentWordLen] = '\0'; 
+                strcpy(words[wordCount], currentWord);
+                wordCount++;
+                currentWordLen = 0;
+            }
+        } 
+
+        else {
+            currentWord[currentWordLen] = ch;
+            currentWordLen++;
         }
     }
-    sort(letters.begin(), letters.end());
-    cout << "Буквы в алфавитном порядке: " << letters << endl;
     
-    string result = withoutDigits;
-    replace(result.begin(), result.end(), ' ', '_');
-    cout << "Результат (пробелы заменены): " << result << endl;
+    cout << "\nСлова, в которых все буквы различны (не повторяются):" << endl;
+    int foundCount = 0;
+    
+    for (int i = 0; i < wordCount; i++) {
+        int wordLen = strlen(words[i]);
+        
+        if (areAllLettersUnique(words[i], wordLen)) {
+            cout << words[i] << endl;
+            foundCount++;
+        }
+    }
+    
+    if (foundCount == 0) {
+        cout << "Таких слов не найдено." << endl;
+    }
+    
+    cout << "\nВсего слов в строке: " << wordCount << endl;
+    cout << "Слов с уникальными буквами: " << foundCount << endl;
+    
     return 0;
 }
