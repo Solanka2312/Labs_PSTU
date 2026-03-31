@@ -45,7 +45,6 @@ int main() {
     
     string text = "Это пример строки для подсчета количества слов";
     
-    cout << "Задание б)" << endl;
     cout << "Строка: \"" << text << "\"" << endl;
     cout << "Количество слов: " << process(text) << endl;
     
