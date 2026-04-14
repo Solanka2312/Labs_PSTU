@@ -70,5 +70,9 @@
 | 11.02.2026 | Лабораторная работа №6(7.2) | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Lab7.2/Lab7.2.cpp) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Lab7.2/7.2.png) |
 | 11.02.2026 | Лабораторная работа №8(8) | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Lab8/Lab8.cpp) | 🟡 |
 | 11.02.2026 | Лабораторная работа №9(9) | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Lab9/Lab9.cpp) | 🟡 |
-| 11.02.2026 | Лабораторная работа №10(10.1) | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Lab10/Lab10.cpp) | 🟡 |
-| 11.02.2026 | Лабораторная работа №11(11.1) | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Lab11/Lab11.cpp) | 🟡 |
+| 11.02.2026 | Лабораторная работа №10(10.1) | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Lab10.1/Lab10.1.cpp) | 🟡 |
+| 11.02.2026 | Лабораторная работа №11(10.2) | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Lab10.2/Lab10.2.cpp) | 🟡 |
+| 11.02.2026 | Лабораторная работа №11(11.1) | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Lab11.1/Lab11.1.cpp) | 🟡 |
+| 11.02.2026 | Лабораторная работа №11(11.2) | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Lab11.2/Lab11.2.cpp) | 🟡 |
+| 11.02.2026 | Лабораторная работа №11(11.3) | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Lab11.3/Lab11.3.cpp) | 🟡 |
+| 11.02.2026 | Лабораторная работа №11(11.4) | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Lab11.4/Lab11.4.cpp) | 🟡 |
