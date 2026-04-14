@@ -84,7 +84,7 @@ public:
         
         for (int i = 0; i < k; i++) {
             char buffer[100];
-            cout << "Введите строку " << i+1 << " для вставки ПЕРЕД '" << key << "': ";
+            cout << "Введите строку " << i+1 << " для вставки перед '" << key << "': ";
             cin >> buffer;
             
             Node *newNode = new Node;
@@ -109,7 +109,7 @@ public:
         Node *currentPos = target;
         for (int i = 0; i < k; i++) {
             char buffer[100];
-            cout << "Введите строку " << i+1 << " для вставки ПОСЛЕ '" << key << "': ";
+            cout << "Введите строку " << i+1 << " для вставки после '" << key << "': ";
             cin >> buffer;
             
             Node *newNode = new Node;
@@ -149,7 +149,7 @@ int main() {
         list.append(buffer);
     }
     
-    cout << "\nИсходный список (с номерами): ";
+    cout << "\nИсходный список: ";
     list.print();
     
     int index;
@@ -170,10 +170,10 @@ int main() {
     cout << "Введите количество элементов K для добавления: ";
     cin >> k;
     
-    cout << "\nДобавление ПЕРЕД '" << key << "':" << endl;
+    cout << "\nДобавление перед '" << key << "':" << endl;
     list.addBeforeKey(key, k);
     
-    cout << "\nДобавление ПОСЛЕ '" << key << "':" << endl;
+    cout << "\nДобавление после '" << key << "':" << endl;
     list.addAfterKey(key, k);
     
     cout << "\nСписок после всех операций: ";
