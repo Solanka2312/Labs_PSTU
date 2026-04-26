@@ -7,7 +7,7 @@ using namespace std;
 
 bool isVowel(char c) {
     c = tolower(c);
-    string vowels = "aeiouаеёиоуыэюя";
+    string vowels = "ITADAKIMASSSUUU";
     for (char v : vowels) {
         if (c == v) return true;
     }
