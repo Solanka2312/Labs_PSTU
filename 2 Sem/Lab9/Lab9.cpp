@@ -26,7 +26,8 @@ int countWords(const string& line) {
 int countVowelsInWord(const string& word) {
     int cnt = 0;
     for (char c : word) {
-        if (isVowel(c)) cnt++;
+        if (isVowel(c)) 
+            cnt++;
     }
     return cnt;
 }
