@@ -77,15 +77,15 @@
 | Лабораторная работа №11(11.3) | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Lab11.3/Lab11.3.cpp) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Lab11.3/Lab11.3.png) |
 | Лабораторная работа №11(11.4) | 🟢 | [code](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Lab11.4/Lab11.4.cpp) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Lab11.4/Lab11.4.png) |
 | Class 1 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%201) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%201/Class1.jpg) |
-| Class 2 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%202) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%201/Class2.jpg) |
-| Class 3 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%203) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%201/Class3.jpg) |
-| Class 4 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%204) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%201/Class4.jpg) |
-| Class 5 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%205) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%201/Class5.jpg) |
-| Class 6 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%206) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%201/Class6.jpg) |
-| Class 7 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%207) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%201/Class7.jpg) |
-| Class 8 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%208) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%201/Class8.jpg) |
-| Class 9 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%209) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%201/Class9.jpg) |
-| Class 10 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%2010) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%201/Class10.jpg) |
-| Class 11 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%2011) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%201/Class11.jpg) |
-| Class 12 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%2012) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%201/Class12.jpg) |
-| Class 13 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%2013) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%201/Class13.jpg) |
+| Class 2 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%202) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%202/Class2.jpg) |
+| Class 3 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%203) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%203/Class3.jpg) |
+| Class 4 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%204) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%204/Class4.jpg) |
+| Class 5 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%205) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%205/Class5.jpg) |
+| Class 6 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%206) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%206/Class6.jpg) |
+| Class 7 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%207) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%207/Class7.jpg) |
+| Class 8 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%208) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%208/Class8.jpg) |
+| Class 9 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%209) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%209/Class9.jpg) |
+| Class 10 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%2010) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%2010/Class10.jpg) |
+| Class 11 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%2011) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%2011/Class11.jpg) |
+| Class 12 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%2012) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%2012/Class12.jpg) |
+| Class 13 | 🟢 [code](https://github.com/Solanka2312/Labs_PSTU/tree/main/2%20Sem/Class%2013) | 🟢 [png](https://github.com/Solanka2312/Labs_PSTU/blob/main/2%20Sem/Class%2013/Class13.jpg) |
